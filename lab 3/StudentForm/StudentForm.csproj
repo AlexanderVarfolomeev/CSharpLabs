@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\lab 3\Models\StudentModel\StudentModel.csproj" />
+    <ProjectReference Include="..\StudentModel\StudentModel.csproj" />
   </ItemGroup>
 
 </Project>
